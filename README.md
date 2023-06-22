@@ -1,5 +1,5 @@
 Organo is a registration system for a development team, a web application developed in React.
-
+<img title="Acesse o projeto" onclick="document.querySelector('#organo a').click()" src="./imagens/organo-2.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

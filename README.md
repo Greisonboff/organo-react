@@ -1,6 +1,6 @@
 Organo is a registration system for a development team, a web application developed in React.
 
-<a href="https://organo-em-react.vercel.app/"><img alt="organo-2.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/organo-2.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></a>
+<a href="https://organo-em-react.vercel.app/" target="_blank"><img alt="organo-2.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/organo-2.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></a>
 
 # Getting Started with Create React App
 
